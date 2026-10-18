@@ -1,11 +1,3 @@
-modell im container kopieren:
-docker cp "C:\Users\richigiri\Downloads\translate_gemma4_sub-E4B-Q4_K_XL.gguf" subtitle-ollama:/tmp/model.gguf
-
-
-modelldatei erstellen und laden im container:
-docker exec -it subtitle-ollama sh -c "printf 'FROM /tmp/model.gguf\nPARAMETER temperature 0.3\nPARAMETER top_p 0.9\nPARAMETER num_ctx 16384\n' > /tmp/Modelfile && ollama create translate-gemma-sub-e4b -f /tmp/Modelfile"
-
-
 modell und modellfile aus tmp ordner löschen:
 docker exec subtitle-ollama rm /tmp/model.gguf /tmp/Modelfile
 

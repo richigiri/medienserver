@@ -12,7 +12,7 @@ import pysubs2
 import requests
 
 
-OLLAMA_URL = os.getenv("OLLAMA_URL", "http://ollama:11434").rstrip("/")
+OLLAMA_URL = os.getenv("OLLAMA_URL", "http://192.168.178.21:11434").rstrip("/")
 MODEL = os.getenv("OLLAMA_MODEL", "translate-gemma-sub-e4b")
 
 # An Translate Gemma 4 Sub angepasste Parameter

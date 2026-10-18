@@ -73,7 +73,7 @@ services:
       - ./subtitle-translator/models:/models:ro
       - ./subtitle-translator/ollama-init:/ollama-init:ro
     ports:
-      - "127.0.0.1:11434:11434"
+      - "11434:11434"
     entrypoint: ["/bin/sh", "/ollama-init/entrypoint.sh"]
     healthcheck:
       test: ["CMD-SHELL", "ollama list >/dev/null 2>&1 || exit 1"]
@@ -88,11 +88,8 @@ services:
       context: .
       dockerfile:  ./subtitle-translator/dockerfile
     container_name: subtitle-translator
-    depends_on:
-      ollama:
-        condition: service_healthy
     environment:
-      OLLAMA_URL: http://ollama:11434
+      OLLAMA_URL: http://192.168.178.21:11434
       OLLAMA_MODEL: translate-gemma-sub-e4b
       # NEU (optional): strenger Modus – Exit-Code 1 bei unübersetzten Zeilen
       # STRICT_TRANSLATION: "1"
