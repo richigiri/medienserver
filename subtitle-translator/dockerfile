@@ -11,9 +11,9 @@ RUN apt-get update && \
 
 WORKDIR /app
 
-COPY requirements.txt .
+COPY ./subtitle-translator/requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-COPY scripts/translate.py /app/translate.py
+COPY ./subtitle-translator/scripts/translate.py /app/translate.py
 
 ENTRYPOINT ["python", "/app/translate.py"]
