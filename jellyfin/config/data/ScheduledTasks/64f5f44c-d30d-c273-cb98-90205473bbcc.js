@@ -1,0 +1,1 @@
+{"StartTimeUtc":"2026-10-18T00:59:59.0420452Z","EndTimeUtc":"2026-10-18T00:59:59.8487205Z","Status":"Completed","Name":"Trickplay-Bilder generieren","Key":"RefreshTrickplayImages","Id":"64f5f44cd30dc273cb9890205473bbcc"}

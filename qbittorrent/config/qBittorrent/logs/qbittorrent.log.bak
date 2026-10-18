@@ -1,0 +1,539 @@
+(N) 2026-10-15T20:09:49 - qBittorrent v5.2.4 started. Process ID: 156
+(N) 2026-10-15T20:09:49 - Using config directory: /config/qBittorrent
+(N) 2026-10-15T20:09:49 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2026-10-15T20:09:49 - Peer ID: "-qB5240-"
+(I) 2026-10-15T20:09:49 - HTTP User-Agent: "qBittorrent/5.2.4"
+(I) 2026-10-15T20:09:49 - Distributed Hash Table (DHT) support: ON
+(I) 2026-10-15T20:09:49 - Local Peer Discovery support: ON
+(I) 2026-10-15T20:09:49 - Peer Exchange (PeX) support: ON
+(I) 2026-10-15T20:09:49 - Anonymous mode: OFF
+(I) 2026-10-15T20:09:49 - Encryption support: ON
+(I) 2026-10-15T20:09:49 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2026-10-15T20:09:49 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2026-10-15T20:09:49 - Successfully listening on IP. IP: "172.18.0.2". Port: "TCP/6881"
+(I) 2026-10-15T20:09:49 - Successfully listening on IP. IP: "172.18.0.2". Port: "UTP/6881"
+(I) 2026-10-15T20:09:49 - Successfully listening on IP. IP: "10.4.4.30". Port: "TCP/6881"
+(I) 2026-10-15T20:09:49 - Successfully listening on IP. IP: "10.4.4.30". Port: "UTP/6881"
+(I) 2026-10-15T20:09:49 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2026-10-15T20:09:49 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2026-10-15T20:09:49 - Successfully listening on IP. IP: "fe80::b7f0:ac9a:90c3:1afc%tun0". Port: "TCP/6881"
+(I) 2026-10-15T20:09:49 - Successfully listening on IP. IP: "fe80::b7f0:ac9a:90c3:1afc%tun0". Port: "UTP/6881"
+(W) 2026-10-15T20:09:49 - Couldn't load IP geolocation database. Reason: No such file or directory
+(N) 2026-10-15T20:09:50 - Using built-in WebUI.
+(W) 2026-10-15T20:09:50 - Couldn't load WebUI translation for selected locale (C).
+(N) 2026-10-15T20:09:50 - WebUI: Now listening on IP: *, port: 8080
+(I) 2026-10-15T20:09:50 - Detected external IP. IP: "158.173.155.189"
+(I) 2026-10-15T20:09:51 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu Oct 1 03:36:12 2026.
+(I) 2026-10-15T20:09:51 - Successfully updated IP geolocation database.
+(N) 2026-10-15T20:11:09 - WebAPI login success. IP: ::ffff:172.18.0.1
+(N) 2026-10-15T20:16:44 - qBittorrent termination initiated
+(N) 2026-10-15T20:16:44 - Saving resume data completed.
+(N) 2026-10-15T20:16:44 - BitTorrent session successfully finished.
+(N) 2026-10-15T20:16:44 - qBittorrent is now ready to exit
+(N) 2026-10-15T20:16:57 - qBittorrent v5.2.4 started. Process ID: 151
+(N) 2026-10-15T20:16:57 - Using config directory: /config/qBittorrent
+(N) 2026-10-15T20:16:57 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2026-10-15T20:16:57 - Peer ID: "-qB5240-"
+(I) 2026-10-15T20:16:57 - HTTP User-Agent: "qBittorrent/5.2.4"
+(I) 2026-10-15T20:16:57 - Distributed Hash Table (DHT) support: ON
+(I) 2026-10-15T20:16:57 - Local Peer Discovery support: ON
+(I) 2026-10-15T20:16:57 - Peer Exchange (PeX) support: ON
+(I) 2026-10-15T20:16:57 - Anonymous mode: OFF
+(I) 2026-10-15T20:16:57 - Encryption support: ON
+(I) 2026-10-15T20:16:57 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2026-10-15T20:16:57 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2026-10-15T20:16:57 - Successfully listening on IP. IP: "172.18.0.2". Port: "TCP/6881"
+(I) 2026-10-15T20:16:57 - Successfully listening on IP. IP: "172.18.0.2". Port: "UTP/6881"
+(I) 2026-10-15T20:16:57 - Successfully listening on IP. IP: "10.4.4.30". Port: "TCP/6881"
+(I) 2026-10-15T20:16:57 - Successfully listening on IP. IP: "10.4.4.30". Port: "UTP/6881"
+(I) 2026-10-15T20:16:57 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2026-10-15T20:16:57 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2026-10-15T20:16:57 - Successfully listening on IP. IP: "fe80::6ba3:8cf:d748:94f8%tun0". Port: "TCP/6881"
+(I) 2026-10-15T20:16:57 - Successfully listening on IP. IP: "fe80::6ba3:8cf:d748:94f8%tun0". Port: "UTP/6881"
+(I) 2026-10-15T20:16:57 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu Oct 1 03:36:12 2026.
+(N) 2026-10-15T20:16:57 - Using built-in WebUI.
+(W) 2026-10-15T20:16:57 - Couldn't load WebUI translation for selected locale (C).
+(N) 2026-10-15T20:16:57 - WebUI: Now listening on IP: *, port: 8080
+(I) 2026-10-15T20:16:57 - Detected external IP. IP: "158.173.155.189"
+(W) 2026-10-15T20:19:34 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:172.18.0.1, username: admin
+(W) 2026-10-15T20:19:40 - WebAPI login failure. Reason: invalid credentials, attempt count: 2, IP: ::ffff:172.18.0.1, username: admin
+(N) 2026-10-15T20:19:51 - WebAPI login success. IP: ::ffff:172.18.0.1
+(I) 2026-10-15T20:19:58 - Found Python executable. Name: "python3". Version: "3.14.8"
+(N) 2026-10-15T20:22:53 - Added new torrent. Torrent: "[Erai-raws] Overlord III - 01 ~ 13 [1080p][Multiple Subtitle]"
+(N) 2026-10-15T20:24:36 - Torrent stopped. Torrent: "[Erai-raws] Overlord III - 01 ~ 13 [1080p][Multiple Subtitle]"
+(N) 2026-10-15T20:24:42 - Torrent removed. Torrent: "[Erai-raws] Overlord III - 01 ~ 13 [1080p][Multiple Subtitle]"
+(N) 2026-10-15T20:24:42 - Torrent content removed. Torrent: "[Erai-raws] Overlord III - 01 ~ 13 [1080p][Multiple Subtitle]"
+(N) 2026-10-15T20:26:37 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2026-10-15T20:28:03 - Added new torrent. Torrent: "[Erai-raws] Overlord III - 01 ~ 13 [1080p][Multiple Subtitle]"
+(N) 2026-10-15T20:31:28 - Torrent removed. Torrent: "[Erai-raws] Overlord III - 01 ~ 13 [1080p][Multiple Subtitle]"
+(N) 2026-10-15T20:31:36 - Added new torrent. Torrent: "[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv"
+(N) 2026-10-15T20:32:00 - Torrent download finished. Torrent: "[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv"
+(N) 2026-10-15T20:33:21 - Added new torrent. Torrent: "[Erai-raws] Overlord III - 01 ~ 13 [1080p][Multiple Subtitle]"
+(N) 2026-10-15T20:34:18 - Added new torrent. Torrent: "[Erai-raws] Overlord III - 01 ~ 13 [480p][Multiple Subtitle]"
+(N) 2026-10-15T20:34:30 - Torrent removed. Torrent: "[Erai-raws] Overlord III - 01 ~ 13 [1080p][Multiple Subtitle]"
+(N) 2026-10-15T20:34:30 - Torrent removed. Torrent: "[Erai-raws] Overlord III - 01 ~ 13 [480p][Multiple Subtitle]"
+(N) 2026-10-15T20:34:30 - Torrent content removed. Torrent: "[Erai-raws] Overlord III - 01 ~ 13 [1080p][Multiple Subtitle]"
+(N) 2026-10-15T20:34:30 - Torrent content removed. Torrent: "[Erai-raws] Overlord III - 01 ~ 13 [480p][Multiple Subtitle]"
+(N) 2026-10-15T20:34:37 - Added new torrent. Torrent: "[Erai-raws] Overlord III - 01 ~ 13 [480p][Multiple Subtitle]"
+(N) 2026-10-15T20:35:33 - Torrent removed. Torrent: "[Erai-raws] Overlord III - 01 ~ 13 [480p][Multiple Subtitle]"
+(N) 2026-10-15T20:35:33 - Torrent content removed. Torrent: "[Erai-raws] Overlord III - 01 ~ 13 [480p][Multiple Subtitle]"
+(N) 2026-10-15T20:36:42 - Added new torrent. Torrent: "[Erai-raws] Overlord III - 01 ~ 13 [720p][Multiple Subtitle]"
+(N) 2026-10-15T20:37:00 - Torrent removed. Torrent: "[Erai-raws] Overlord III - 01 ~ 13 [720p][Multiple Subtitle]"
+(N) 2026-10-15T20:38:07 - Added new torrent. Torrent: "[Nep_Blanc] Overlord III [1080p] [x265] [10Bit] [Dual Audio] [Subbed]"
+(N) 2026-10-15T20:38:34 - Torrent stopped. Torrent: "[Nep_Blanc] Overlord III [1080p] [x265] [10Bit] [Dual Audio] [Subbed]"
+(N) 2026-10-15T20:38:36 - Torrent removed. Torrent: "[Nep_Blanc] Overlord III [1080p] [x265] [10Bit] [Dual Audio] [Subbed]"
+(N) 2026-10-15T20:46:35 - Added new torrent. Torrent: "Samurai Champloo"
+(W) 2026-10-15T21:01:40 - File error alert. Torrent: "[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv". File: "/downloads/[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv". Reason: "[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv file_open (/downloads/[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv) error: No such file or directory"
+(W) 2026-10-15T21:01:55 - File error alert. Torrent: "[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv". File: "/downloads/[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv". Reason: "[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv file_open (/downloads/[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv) error: No such file or directory"
+(N) 2026-10-15T21:02:45 - Torrent download finished. Torrent: "Samurai Champloo"
+(W) 2026-10-15T21:02:49 - File error alert. Torrent: "[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv". File: "/downloads/[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv". Reason: "[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv file_open (/downloads/[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv) error: No such file or directory"
+(N) 2026-10-15T21:03:17 - qBittorrent termination initiated
+(N) 2026-10-15T21:03:18 - Saving resume data completed.
+(N) 2026-10-15T21:03:20 - BitTorrent session successfully finished.
+(N) 2026-10-15T21:03:20 - qBittorrent is now ready to exit
+(N) 2026-10-15T21:12:31 - qBittorrent v5.2.4 started. Process ID: 151
+(N) 2026-10-15T21:12:31 - Using config directory: /config/qBittorrent
+(N) 2026-10-15T21:12:31 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2026-10-15T21:12:31 - Peer ID: "-qB5240-"
+(I) 2026-10-15T21:12:31 - HTTP User-Agent: "qBittorrent/5.2.4"
+(I) 2026-10-15T21:12:31 - Distributed Hash Table (DHT) support: ON
+(I) 2026-10-15T21:12:31 - Local Peer Discovery support: ON
+(I) 2026-10-15T21:12:31 - Peer Exchange (PeX) support: ON
+(I) 2026-10-15T21:12:31 - Anonymous mode: OFF
+(I) 2026-10-15T21:12:31 - Encryption support: ON
+(I) 2026-10-15T21:12:31 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2026-10-15T21:12:31 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2026-10-15T21:12:31 - Successfully listening on IP. IP: "172.18.0.2". Port: "TCP/6881"
+(I) 2026-10-15T21:12:31 - Successfully listening on IP. IP: "172.18.0.2". Port: "UTP/6881"
+(I) 2026-10-15T21:12:31 - Successfully listening on IP. IP: "10.4.4.30". Port: "TCP/6881"
+(I) 2026-10-15T21:12:31 - Successfully listening on IP. IP: "10.4.4.30". Port: "UTP/6881"
+(I) 2026-10-15T21:12:31 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2026-10-15T21:12:31 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2026-10-15T21:12:31 - Successfully listening on IP. IP: "fe80::c4f0:d2f0:9167:be68%tun0". Port: "TCP/6881"
+(I) 2026-10-15T21:12:31 - Successfully listening on IP. IP: "fe80::c4f0:d2f0:9167:be68%tun0". Port: "UTP/6881"
+(N) 2026-10-15T21:12:31 - Restored torrent. Torrent: "Samurai Champloo"
+(W) 2026-10-15T21:12:31 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Samurai Champloo". Reason: "Samurai Champloo fast resume rejected. file_stat(/downloads/Samurai Champloo/Samurai Champloo - S01E24.mkv): mismatching file size"
+(N) 2026-10-15T21:12:31 - Restored torrent. Torrent: "[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv"
+(W) 2026-10-15T21:12:31 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv". Reason: "[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv fast resume rejected. file_stat(/downloads/[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv): mismatching file size"
+(I) 2026-10-15T21:12:31 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu Oct 1 03:36:12 2026.
+(N) 2026-10-15T21:12:31 - Using built-in WebUI.
+(N) 2026-10-15T21:12:31 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2026-10-15T21:12:31 - WebUI: Now listening on IP: *, port: 8080
+(I) 2026-10-15T21:12:31 - Detected external IP. IP: "158.173.155.189"
+(N) 2026-10-15T21:14:43 - qBittorrent termination initiated
+(N) 2026-10-15T21:14:43 - Saving resume data completed.
+(N) 2026-10-15T21:14:43 - BitTorrent session successfully finished.
+(N) 2026-10-15T21:14:43 - qBittorrent is now ready to exit
+(N) 2026-10-15T21:24:07 - qBittorrent v5.2.4 started. Process ID: 154
+(N) 2026-10-15T21:24:07 - Using config directory: /config/qBittorrent
+(N) 2026-10-15T21:24:07 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2026-10-15T21:24:07 - Peer ID: "-qB5240-"
+(I) 2026-10-15T21:24:07 - HTTP User-Agent: "qBittorrent/5.2.4"
+(I) 2026-10-15T21:24:07 - Distributed Hash Table (DHT) support: ON
+(I) 2026-10-15T21:24:07 - Local Peer Discovery support: ON
+(I) 2026-10-15T21:24:07 - Peer Exchange (PeX) support: ON
+(I) 2026-10-15T21:24:07 - Anonymous mode: OFF
+(I) 2026-10-15T21:24:07 - Encryption support: ON
+(I) 2026-10-15T21:24:07 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2026-10-15T21:24:07 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2026-10-15T21:24:07 - Successfully listening on IP. IP: "172.18.0.2". Port: "TCP/6881"
+(I) 2026-10-15T21:24:07 - Successfully listening on IP. IP: "172.18.0.2". Port: "UTP/6881"
+(I) 2026-10-15T21:24:07 - Successfully listening on IP. IP: "10.8.4.153". Port: "TCP/6881"
+(I) 2026-10-15T21:24:07 - Successfully listening on IP. IP: "10.8.4.153". Port: "UTP/6881"
+(I) 2026-10-15T21:24:07 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2026-10-15T21:24:07 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2026-10-15T21:24:07 - Successfully listening on IP. IP: "fe80::112c:f589:f068:7f6f%tun0". Port: "TCP/6881"
+(I) 2026-10-15T21:24:07 - Successfully listening on IP. IP: "fe80::112c:f589:f068:7f6f%tun0". Port: "UTP/6881"
+(N) 2026-10-15T21:24:07 - Restored torrent. Torrent: "Samurai Champloo"
+(N) 2026-10-15T21:24:07 - Restored torrent. Torrent: "[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv"
+(I) 2026-10-15T21:24:07 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu Oct 1 03:36:12 2026.
+(N) 2026-10-15T21:24:07 - Using built-in WebUI.
+(N) 2026-10-15T21:24:07 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2026-10-15T21:24:07 - WebUI: Now listening on IP: *, port: 8080
+(W) 2026-10-15T21:24:07 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv". Reason: "[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv fast resume rejected. file_stat(/downloads/[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv): mismatching file size"
+(W) 2026-10-15T21:24:07 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Samurai Champloo". Reason: "Samurai Champloo fast resume rejected. file_stat(/downloads/Samurai Champloo/Samurai Champloo - S01E24.mkv): mismatching file size"
+(I) 2026-10-15T21:24:07 - Detected external IP. IP: "83.97.23.186"
+(N) 2026-10-15T21:24:38 - qBittorrent termination initiated
+(N) 2026-10-15T21:24:38 - Saving resume data completed.
+(N) 2026-10-15T21:24:38 - BitTorrent session successfully finished.
+(N) 2026-10-15T21:24:38 - qBittorrent is now ready to exit
+(N) 2026-10-15T21:25:30 - qBittorrent v5.2.4 started. Process ID: 151
+(N) 2026-10-15T21:25:30 - Using config directory: /config/qBittorrent
+(N) 2026-10-15T21:25:30 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2026-10-15T21:25:30 - Peer ID: "-qB5240-"
+(I) 2026-10-15T21:25:30 - HTTP User-Agent: "qBittorrent/5.2.4"
+(I) 2026-10-15T21:25:30 - Distributed Hash Table (DHT) support: ON
+(I) 2026-10-15T21:25:30 - Local Peer Discovery support: ON
+(I) 2026-10-15T21:25:30 - Peer Exchange (PeX) support: ON
+(I) 2026-10-15T21:25:30 - Anonymous mode: OFF
+(I) 2026-10-15T21:25:30 - Encryption support: ON
+(I) 2026-10-15T21:25:30 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2026-10-15T21:25:30 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2026-10-15T21:25:30 - Successfully listening on IP. IP: "172.18.0.2". Port: "TCP/6881"
+(I) 2026-10-15T21:25:30 - Successfully listening on IP. IP: "172.18.0.2". Port: "UTP/6881"
+(I) 2026-10-15T21:25:30 - Successfully listening on IP. IP: "10.8.4.153". Port: "TCP/6881"
+(I) 2026-10-15T21:25:30 - Successfully listening on IP. IP: "10.8.4.153". Port: "UTP/6881"
+(I) 2026-10-15T21:25:30 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2026-10-15T21:25:30 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2026-10-15T21:25:30 - Successfully listening on IP. IP: "fe80::115d:7d0b:95cc:7ebc%tun0". Port: "TCP/6881"
+(I) 2026-10-15T21:25:30 - Successfully listening on IP. IP: "fe80::115d:7d0b:95cc:7ebc%tun0". Port: "UTP/6881"
+(N) 2026-10-15T21:25:30 - Restored torrent. Torrent: "Samurai Champloo"
+(N) 2026-10-15T21:25:30 - Restored torrent. Torrent: "[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv"
+(I) 2026-10-15T21:25:30 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu Oct 1 03:36:12 2026.
+(N) 2026-10-15T21:25:30 - Using built-in WebUI.
+(N) 2026-10-15T21:25:30 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2026-10-15T21:25:30 - WebUI: Now listening on IP: *, port: 8080
+(W) 2026-10-15T21:25:30 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv". Reason: "[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv fast resume rejected. file_stat(/downloads/[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv): mismatching file size"
+(W) 2026-10-15T21:25:30 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Samurai Champloo". Reason: "Samurai Champloo fast resume rejected. file_stat(/downloads/Samurai Champloo/Samurai Champloo - S01E24.mkv): mismatching file size"
+(I) 2026-10-15T21:25:30 - Detected external IP. IP: "83.97.23.186"
+(W) 2026-10-15T21:42:38 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:172.18.0.1, username: richirigiri
+(W) 2026-10-15T21:43:02 - WebAPI login failure. Reason: invalid credentials, attempt count: 2, IP: ::ffff:172.18.0.1, username: richigiri
+(N) 2026-10-15T21:43:09 - WebAPI login success. IP: ::ffff:172.18.0.1
+(N) 2026-10-15T21:43:16 - Added new torrent. Torrent: "[DragsterPS] Samurai Champloo S01 [1080p] [Multi-Audio] [Multi-Subs]"
+(N) 2026-10-15T22:11:28 - Added new torrent. Torrent: "[Erai-raws] Overlord III - 01 ~ 13 [1080p][Multiple Subtitle]"
+(N) 2026-10-15T22:15:23 - Torrent download finished. Torrent: "[DragsterPS] Samurai Champloo S01 [1080p] [Multi-Audio] [Multi-Subs]"
+(N) 2026-10-15T22:19:02 - Added new torrent. Torrent: "[VCB-Studio] OVERLORD"
+(N) 2026-10-15T22:19:12 - Torrent removed. Torrent: "[Erai-raws] Overlord III - 01 ~ 13 [1080p][Multiple Subtitle]"
+(N) 2026-10-15T22:32:43 - Added new torrent. Torrent: "[HorribleRips] Overlord S3 [1080p]"
+(N) 2026-10-15T22:48:44 - Torrent download finished. Torrent: "[VCB-Studio] OVERLORD"
+(N) 2026-10-15T23:09:49 - Torrent removed. Torrent: "[HorribleRips] Overlord S3 [1080p]"
+(N) 2026-10-15T23:13:42 - Added new torrent. Torrent: "[HorribleRips] Overlord S3 [1080p]"
+(N) 2026-10-15T23:16:50 - Torrent removed. Torrent: "[HorribleRips] Overlord S3 [1080p]"
+(N) 2026-10-15T23:16:57 - Added new torrent. Torrent: "[Erai-raws] Overlord III - 01 ~ 13 [1080p][Multiple Subtitle]"
+(N) 2026-10-15T23:21:58 - Added new torrent. Torrent: "Overlord.S03.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA"
+(N) 2026-10-15T23:22:16 - Torrent stopped. Torrent: "[Erai-raws] Overlord III - 01 ~ 13 [1080p][Multiple Subtitle]"
+(N) 2026-10-15T23:22:34 - Torrent stopped. Torrent: "Overlord.S03.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA"
+(N) 2026-10-15T23:22:40 - Torrent resumed. Torrent: "[Erai-raws] Overlord III - 01 ~ 13 [1080p][Multiple Subtitle]"
+(N) 2026-10-15T23:22:59 - Torrent stopped. Torrent: "[Erai-raws] Overlord III - 01 ~ 13 [1080p][Multiple Subtitle]"
+(N) 2026-10-15T23:23:02 - Torrent resumed. Torrent: "Overlord.S03.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA"
+(I) 2026-10-15T23:26:03 - Anonymous mode: ON
+(N) 2026-10-15T23:26:13 - Torrent resumed. Torrent: "[Erai-raws] Overlord III - 01 ~ 13 [1080p][Multiple Subtitle]"
+(N) 2026-10-15T23:27:29 - qBittorrent termination initiated
+(N) 2026-10-15T23:27:29 - Saving resume data completed.
+(N) 2026-10-15T23:27:29 - BitTorrent session successfully finished.
+(N) 2026-10-15T23:27:29 - qBittorrent is now ready to exit
+(N) 2026-10-15T23:27:40 - qBittorrent v5.2.4 started. Process ID: 150
+(N) 2026-10-15T23:27:40 - Using config directory: /config/qBittorrent
+(N) 2026-10-15T23:27:40 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2026-10-15T23:27:40 - Peer ID: "-qB5240-"
+(I) 2026-10-15T23:27:40 - HTTP User-Agent: "qBittorrent/5.2.4"
+(I) 2026-10-15T23:27:40 - Distributed Hash Table (DHT) support: ON
+(I) 2026-10-15T23:27:40 - Local Peer Discovery support: ON
+(I) 2026-10-15T23:27:40 - Peer Exchange (PeX) support: ON
+(I) 2026-10-15T23:27:40 - Anonymous mode: ON
+(I) 2026-10-15T23:27:40 - Encryption support: ON
+(I) 2026-10-15T23:27:40 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2026-10-15T23:27:40 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2026-10-15T23:27:40 - Successfully listening on IP. IP: "172.18.0.3". Port: "TCP/6881"
+(I) 2026-10-15T23:27:40 - Successfully listening on IP. IP: "172.18.0.3". Port: "UTP/6881"
+(I) 2026-10-15T23:27:40 - Successfully listening on IP. IP: "10.8.4.153". Port: "TCP/6881"
+(I) 2026-10-15T23:27:40 - Successfully listening on IP. IP: "10.8.4.153". Port: "UTP/6881"
+(I) 2026-10-15T23:27:40 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2026-10-15T23:27:40 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2026-10-15T23:27:40 - Successfully listening on IP. IP: "fe80::e758:eb81:7a13:26e0%tun0". Port: "TCP/6881"
+(I) 2026-10-15T23:27:40 - Successfully listening on IP. IP: "fe80::e758:eb81:7a13:26e0%tun0". Port: "UTP/6881"
+(N) 2026-10-15T23:27:40 - Restored torrent. Torrent: "Samurai Champloo"
+(W) 2026-10-15T23:27:40 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Samurai Champloo". Reason: "Samurai Champloo fast resume rejected. file_stat(/downloads/Samurai Champloo/Samurai Champloo - S01E24.mkv): mismatching file size"
+(N) 2026-10-15T23:27:40 - Restored torrent. Torrent: "[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv"
+(W) 2026-10-15T23:27:40 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv". Reason: "[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv fast resume rejected. file_stat(/downloads/[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv): mismatching file size"
+(N) 2026-10-15T23:27:40 - Restored torrent. Torrent: "[Erai-raws] Overlord III - 01 ~ 13 [1080p][Multiple Subtitle]"
+(N) 2026-10-15T23:27:40 - Restored torrent. Torrent: "Overlord.S03.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA"
+(N) 2026-10-15T23:27:40 - Restored torrent. Torrent: "[DragsterPS] Samurai Champloo S01 [1080p] [Multi-Audio] [Multi-Subs]"
+(W) 2026-10-15T23:27:40 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[DragsterPS] Samurai Champloo S01 [1080p] [Multi-Audio] [Multi-Subs]". Reason: "[DragsterPS] Samurai Champloo S01 [1080p] [Multi-Audio] [Multi-Subs] fast resume rejected. file_stat(/downloads/[DragsterPS] Samurai Champloo S01 [1080p] [Multi-Audio] [Multi-Subs]/[DragsterPS] Samurai Champloo S01E01 [1080p] [Multi-Audio] [Multi-Subs] [C40EE6DF].mkv): mismatching file size"
+(N) 2026-10-15T23:27:40 - Restored torrent. Torrent: "[VCB-Studio] OVERLORD"
+(I) 2026-10-15T23:27:40 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu Oct 1 03:36:12 2026.
+(N) 2026-10-15T23:27:40 - Using built-in WebUI.
+(N) 2026-10-15T23:27:40 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2026-10-15T23:27:40 - WebUI: Now listening on IP: *, port: 8080
+(I) 2026-10-15T23:27:40 - Detected external IP. IP: "83.97.23.186"
+(W) 2026-10-15T23:27:40 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[VCB-Studio] OVERLORD". Reason: "[VCB-Studio] OVERLORD fast resume rejected. file_stat(/downloads/[VCB-Studio] OVERLORD/[VCB-Studio] Gekijouban Soushuuhen OVERLORD [Ma10p_1080p]/[VCB-Studio] Gekijouban Soushuuhen OVERLORD [01(Fushisha no Ou)][Ma10p_1080p][x265_flac].mkv): mismatching file size"
+(N) 2026-10-15T23:27:54 - WebAPI login success. IP: ::ffff:172.18.0.1
+(N) 2026-10-15T23:33:30 - Torrent download finished. Torrent: "Overlord.S03.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA"
+(N) 2026-10-15T23:41:53 - Torrent removed. Torrent: "[Erai-raws] Overlord III - 01 ~ 13 [1080p][Multiple Subtitle]"
+(N) 2026-10-15T23:41:58 - Added new torrent. Torrent: "[SanKyuu] Overlord [BD 1080p]"
+(N) 2026-10-16T00:15:42 - Torrent removed. Torrent: "[SanKyuu] Overlord [BD 1080p]"
+(N) 2026-10-16T00:35:01 - Added new torrent. Torrent: "[VCB-Studio] OVERLORD IV [Ma10p_1080p]"
+(N) 2026-10-16T00:36:30 - Added new torrent. Torrent: "[VCB-Studio] OVERLORD Sei Oukoku Hen [Ma10p_1080p]"
+(N) 2026-10-16T00:44:33 - Torrent download finished. Torrent: "[VCB-Studio] OVERLORD Sei Oukoku Hen [Ma10p_1080p]"
+(N) 2026-10-16T00:50:01 - Torrent download finished. Torrent: "[VCB-Studio] OVERLORD IV [Ma10p_1080p]"
+(N) 2026-10-16T00:53:01 - Added new torrent. Torrent: "[Kamigami] The Girl Who Leapt Through Time - Movie [BD x264 1920×1080 AAC Sub(GB,Big5,Jap,Eng)].mkv"
+(N) 2026-10-16T00:55:41 - Added new torrent. Torrent: "kakeru"
+(W) 2026-10-16T01:09:08 - File error alert. Torrent: "Overlord.S03.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA". File: "/downloads/Overlord.S03.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA/Overlord.S03E06.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA.mkv". Reason: "Overlord.S03.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA file_open (/downloads/Overlord.S03.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA/Overlord.S03E06.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA.mkv) error: No such file or directory"
+(N) 2026-10-16T01:23:36 - Torrent download finished. Torrent: "[Kamigami] The Girl Who Leapt Through Time - Movie [BD x264 1920×1080 AAC Sub(GB,Big5,Jap,Eng)].mkv"
+(N) 2026-10-16T02:23:37 - qBittorrent termination initiated
+(N) 2026-10-16T02:23:37 - Saving resume data completed.
+(N) 2026-10-16T02:23:39 - BitTorrent session successfully finished.
+(N) 2026-10-16T02:23:39 - qBittorrent is now ready to exit
+(N) 2026-10-16T06:47:16 - qBittorrent v5.2.4 started. Process ID: 152
+(N) 2026-10-16T06:47:16 - Using config directory: /config/qBittorrent
+(N) 2026-10-16T06:47:16 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2026-10-16T06:47:16 - Peer ID: "-qB5240-"
+(I) 2026-10-16T06:47:16 - HTTP User-Agent: "qBittorrent/5.2.4"
+(I) 2026-10-16T06:47:16 - Distributed Hash Table (DHT) support: ON
+(I) 2026-10-16T06:47:16 - Local Peer Discovery support: ON
+(I) 2026-10-16T06:47:16 - Peer Exchange (PeX) support: ON
+(I) 2026-10-16T06:47:16 - Anonymous mode: ON
+(I) 2026-10-16T06:47:16 - Encryption support: ON
+(I) 2026-10-16T06:47:16 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2026-10-16T06:47:16 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2026-10-16T06:47:16 - Successfully listening on IP. IP: "172.18.0.3". Port: "TCP/6881"
+(I) 2026-10-16T06:47:16 - Successfully listening on IP. IP: "172.18.0.3". Port: "UTP/6881"
+(I) 2026-10-16T06:47:16 - Successfully listening on IP. IP: "10.4.4.30". Port: "TCP/6881"
+(I) 2026-10-16T06:47:16 - Successfully listening on IP. IP: "10.4.4.30". Port: "UTP/6881"
+(I) 2026-10-16T06:47:16 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2026-10-16T06:47:16 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2026-10-16T06:47:16 - Successfully listening on IP. IP: "fe80::de1d:9267:5a99:5da%tun0". Port: "TCP/6881"
+(I) 2026-10-16T06:47:16 - Successfully listening on IP. IP: "fe80::de1d:9267:5a99:5da%tun0". Port: "UTP/6881"
+(N) 2026-10-16T06:47:16 - Restored torrent. Torrent: "Samurai Champloo"
+(N) 2026-10-16T06:47:16 - Restored torrent. Torrent: "[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv"
+(W) 2026-10-16T06:47:16 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv". Reason: "[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv fast resume rejected. file_stat(/downloads/[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv): mismatching file size"
+(W) 2026-10-16T06:47:16 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Samurai Champloo". Reason: "Samurai Champloo fast resume rejected. file_stat(/downloads/Samurai Champloo/Samurai Champloo - S01E24.mkv): mismatching file size"
+(N) 2026-10-16T06:47:16 - Restored torrent. Torrent: "[DragsterPS] Samurai Champloo S01 [1080p] [Multi-Audio] [Multi-Subs]"
+(W) 2026-10-16T06:47:16 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[DragsterPS] Samurai Champloo S01 [1080p] [Multi-Audio] [Multi-Subs]". Reason: "[DragsterPS] Samurai Champloo S01 [1080p] [Multi-Audio] [Multi-Subs] fast resume rejected. file_stat(/downloads/[DragsterPS] Samurai Champloo S01 [1080p] [Multi-Audio] [Multi-Subs]/[DragsterPS] Samurai Champloo S01E01 [1080p] [Multi-Audio] [Multi-Subs] [C40EE6DF].mkv): mismatching file size"
+(N) 2026-10-16T06:47:16 - Restored torrent. Torrent: "[VCB-Studio] OVERLORD"
+(N) 2026-10-16T06:47:16 - Restored torrent. Torrent: "[Kamigami] The Girl Who Leapt Through Time - Movie [BD x264 1920×1080 AAC Sub(GB,Big5,Jap,Eng)].mkv"
+(N) 2026-10-16T06:47:16 - Restored torrent. Torrent: "kakeru"
+(N) 2026-10-16T06:47:16 - Restored torrent. Torrent: "[VCB-Studio] OVERLORD IV [Ma10p_1080p]"
+(N) 2026-10-16T06:47:16 - Restored torrent. Torrent: "[VCB-Studio] OVERLORD Sei Oukoku Hen [Ma10p_1080p]"
+(N) 2026-10-16T06:47:16 - Restored torrent. Torrent: "Overlord.S03.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA"
+(I) 2026-10-16T06:47:16 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu Oct 1 03:36:12 2026.
+(N) 2026-10-16T06:47:17 - Using built-in WebUI.
+(N) 2026-10-16T06:47:17 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2026-10-16T06:47:17 - WebUI: Now listening on IP: *, port: 8080
+(W) 2026-10-16T06:47:17 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Overlord.S03.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA". Reason: "Overlord.S03.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA fast resume rejected. file_stat(/downloads/Overlord.S03.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA/Overlord.S03E01.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA.mkv): mismatching file size"
+(I) 2026-10-16T06:47:17 - Detected external IP. IP: "158.173.155.189"
+(W) 2026-10-16T06:47:17 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[VCB-Studio] OVERLORD". Reason: "[VCB-Studio] OVERLORD fast resume rejected. file_stat(/downloads/[VCB-Studio] OVERLORD/[VCB-Studio] Gekijouban Soushuuhen OVERLORD [Ma10p_1080p]/[VCB-Studio] Gekijouban Soushuuhen OVERLORD [01(Fushisha no Ou)][Ma10p_1080p][x265_flac].mkv): mismatching file size"
+(N) 2026-10-16T07:48:56 - qBittorrent termination initiated
+(N) 2026-10-16T07:48:56 - Saving resume data completed.
+(N) 2026-10-16T07:48:58 - BitTorrent session successfully finished.
+(N) 2026-10-16T07:48:58 - qBittorrent is now ready to exit
+(N) 2026-10-16T08:44:00 - qBittorrent v5.2.4 started. Process ID: 152
+(N) 2026-10-16T08:44:00 - Using config directory: /config/qBittorrent
+(N) 2026-10-16T08:44:00 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2026-10-16T08:44:00 - Peer ID: "-qB5240-"
+(I) 2026-10-16T08:44:00 - HTTP User-Agent: "qBittorrent/5.2.4"
+(I) 2026-10-16T08:44:00 - Distributed Hash Table (DHT) support: ON
+(I) 2026-10-16T08:44:00 - Local Peer Discovery support: ON
+(I) 2026-10-16T08:44:00 - Peer Exchange (PeX) support: ON
+(I) 2026-10-16T08:44:00 - Anonymous mode: ON
+(I) 2026-10-16T08:44:00 - Encryption support: ON
+(I) 2026-10-16T08:44:00 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2026-10-16T08:44:00 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2026-10-16T08:44:00 - Successfully listening on IP. IP: "172.18.0.3". Port: "TCP/6881"
+(I) 2026-10-16T08:44:00 - Successfully listening on IP. IP: "172.18.0.3". Port: "UTP/6881"
+(I) 2026-10-16T08:44:00 - Successfully listening on IP. IP: "10.4.4.30". Port: "TCP/6881"
+(I) 2026-10-16T08:44:00 - Successfully listening on IP. IP: "10.4.4.30". Port: "UTP/6881"
+(I) 2026-10-16T08:44:00 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2026-10-16T08:44:00 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2026-10-16T08:44:00 - Successfully listening on IP. IP: "fe80::96ba:e68f:9fc2:f7ac%tun0". Port: "TCP/6881"
+(I) 2026-10-16T08:44:00 - Successfully listening on IP. IP: "fe80::96ba:e68f:9fc2:f7ac%tun0". Port: "UTP/6881"
+(N) 2026-10-16T08:44:00 - Restored torrent. Torrent: "Samurai Champloo"
+(W) 2026-10-16T08:44:00 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Samurai Champloo". Reason: "Samurai Champloo fast resume rejected. file_stat(/downloads/Samurai Champloo/Samurai Champloo - S01E24.mkv): mismatching file size"
+(N) 2026-10-16T08:44:00 - Restored torrent. Torrent: "[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv"
+(W) 2026-10-16T08:44:00 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv". Reason: "[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv fast resume rejected. file_stat(/downloads/[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv): mismatching file size"
+(N) 2026-10-16T08:44:00 - Restored torrent. Torrent: "[DragsterPS] Samurai Champloo S01 [1080p] [Multi-Audio] [Multi-Subs]"
+(W) 2026-10-16T08:44:00 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[DragsterPS] Samurai Champloo S01 [1080p] [Multi-Audio] [Multi-Subs]". Reason: "[DragsterPS] Samurai Champloo S01 [1080p] [Multi-Audio] [Multi-Subs] fast resume rejected. file_stat(/downloads/[DragsterPS] Samurai Champloo S01 [1080p] [Multi-Audio] [Multi-Subs]/[DragsterPS] Samurai Champloo S01E01 [1080p] [Multi-Audio] [Multi-Subs] [C40EE6DF].mkv): mismatching file size"
+(I) 2026-10-16T08:44:00 - Detected external IP. IP: "158.173.155.189"
+(N) 2026-10-16T08:44:00 - Restored torrent. Torrent: "[VCB-Studio] OVERLORD"
+(N) 2026-10-16T08:44:00 - Restored torrent. Torrent: "[Kamigami] The Girl Who Leapt Through Time - Movie [BD x264 1920×1080 AAC Sub(GB,Big5,Jap,Eng)].mkv"
+(N) 2026-10-16T08:44:00 - Restored torrent. Torrent: "kakeru"
+(N) 2026-10-16T08:44:00 - Restored torrent. Torrent: "[VCB-Studio] OVERLORD IV [Ma10p_1080p]"
+(N) 2026-10-16T08:44:00 - Restored torrent. Torrent: "[VCB-Studio] OVERLORD Sei Oukoku Hen [Ma10p_1080p]"
+(N) 2026-10-16T08:44:01 - Restored torrent. Torrent: "Overlord.S03.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA"
+(I) 2026-10-16T08:44:01 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu Oct 1 03:36:12 2026.
+(N) 2026-10-16T08:44:01 - Using built-in WebUI.
+(N) 2026-10-16T08:44:01 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2026-10-16T08:44:01 - WebUI: Now listening on IP: *, port: 8080
+(W) 2026-10-16T08:44:01 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Overlord.S03.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA". Reason: "Overlord.S03.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA fast resume rejected. file_stat(/downloads/Overlord.S03.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA/Overlord.S03E01.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA.mkv): mismatching file size"
+(W) 2026-10-16T08:44:01 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[VCB-Studio] OVERLORD". Reason: "[VCB-Studio] OVERLORD fast resume rejected. file_stat(/downloads/[VCB-Studio] OVERLORD/[VCB-Studio] Gekijouban Soushuuhen OVERLORD [Ma10p_1080p]/[VCB-Studio] Gekijouban Soushuuhen OVERLORD [01(Fushisha no Ou)][Ma10p_1080p][x265_flac].mkv): mismatching file size"
+(N) 2026-10-16T09:32:30 - WebAPI login success. IP: ::ffff:172.18.0.1
+(N) 2026-10-16T09:32:40 - Torrent removed. Torrent: "kakeru"
+(N) 2026-10-16T09:37:26 - Added new torrent. Torrent: "Chainsaw Man – The Movie Reze Arc (2025) [WEB] [4K] [AV1] [ItachiUchiha].mkv"
+(N) 2026-10-16T09:40:19 - Torrent download finished. Torrent: "Chainsaw Man – The Movie Reze Arc (2025) [WEB] [4K] [AV1] [ItachiUchiha].mkv"
+(N) 2026-10-16T09:49:57 - Added new torrent. Torrent: "[Sokudo] Made in Abyss - Dawn of the Deep Soul [1080p BD AV1][dual audio].mkv"
+(N) 2026-10-16T09:59:53 - Torrent download finished. Torrent: "[Sokudo] Made in Abyss - Dawn of the Deep Soul [1080p BD AV1][dual audio].mkv"
+(N) 2026-10-16T21:34:58 - qBittorrent v5.2.4 started. Process ID: 151
+(N) 2026-10-16T21:34:58 - Using config directory: /config/qBittorrent
+(N) 2026-10-16T21:34:58 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2026-10-16T21:34:58 - Peer ID: "-qB5240-"
+(I) 2026-10-16T21:34:58 - HTTP User-Agent: "qBittorrent/5.2.4"
+(I) 2026-10-16T21:34:58 - Distributed Hash Table (DHT) support: ON
+(I) 2026-10-16T21:34:58 - Local Peer Discovery support: ON
+(I) 2026-10-16T21:34:58 - Peer Exchange (PeX) support: ON
+(I) 2026-10-16T21:34:58 - Anonymous mode: ON
+(I) 2026-10-16T21:34:58 - Encryption support: ON
+(I) 2026-10-16T21:34:58 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2026-10-16T21:34:58 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2026-10-16T21:34:58 - Successfully listening on IP. IP: "172.18.0.2". Port: "TCP/6881"
+(I) 2026-10-16T21:34:58 - Successfully listening on IP. IP: "172.18.0.2". Port: "UTP/6881"
+(I) 2026-10-16T21:34:58 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2026-10-16T21:34:58 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(N) 2026-10-16T21:34:58 - Restored torrent. Torrent: "Samurai Champloo"
+(W) 2026-10-16T21:34:58 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Samurai Champloo". Reason: "Samurai Champloo fast resume rejected. file_stat(/downloads/Samurai Champloo/Samurai Champloo - S01E24.mkv): mismatching file size"
+(N) 2026-10-16T21:34:58 - Restored torrent. Torrent: "[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv"
+(W) 2026-10-16T21:34:58 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv". Reason: "[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv fast resume rejected. file_stat(/downloads/[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv): mismatching file size"
+(N) 2026-10-16T21:34:58 - Restored torrent. Torrent: "[DragsterPS] Samurai Champloo S01 [1080p] [Multi-Audio] [Multi-Subs]"
+(W) 2026-10-16T21:34:58 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[DragsterPS] Samurai Champloo S01 [1080p] [Multi-Audio] [Multi-Subs]". Reason: "[DragsterPS] Samurai Champloo S01 [1080p] [Multi-Audio] [Multi-Subs] fast resume rejected. file_stat(/downloads/[DragsterPS] Samurai Champloo S01 [1080p] [Multi-Audio] [Multi-Subs]/[DragsterPS] Samurai Champloo S01E01 [1080p] [Multi-Audio] [Multi-Subs] [C40EE6DF].mkv): mismatching file size"
+(N) 2026-10-16T21:34:59 - Restored torrent. Torrent: "[VCB-Studio] OVERLORD"
+(N) 2026-10-16T21:34:59 - Restored torrent. Torrent: "Overlord.S03.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA"
+(W) 2026-10-16T21:34:59 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Overlord.S03.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA". Reason: "Overlord.S03.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA fast resume rejected. file_stat(/downloads/Overlord.S03.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA/Overlord.S03E01.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA.mkv): mismatching file size"
+(N) 2026-10-16T21:34:59 - Restored torrent. Torrent: "[Sokudo] Made in Abyss - Dawn of the Deep Soul [1080p BD AV1][dual audio].mkv"
+(W) 2026-10-16T21:34:59 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[Sokudo] Made in Abyss - Dawn of the Deep Soul [1080p BD AV1][dual audio].mkv". Reason: "[Sokudo] Made in Abyss - Dawn of the Deep Soul [1080p BD AV1][dual audio].mkv fast resume rejected. file_stat(/downloads/[Sokudo] Made in Abyss - Dawn of the Deep Soul [1080p BD AV1][dual audio].mkv): mismatching file size"
+(N) 2026-10-16T21:34:59 - Restored torrent. Torrent: "[VCB-Studio] OVERLORD Sei Oukoku Hen [Ma10p_1080p]"
+(W) 2026-10-16T21:34:59 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[VCB-Studio] OVERLORD Sei Oukoku Hen [Ma10p_1080p]". Reason: "[VCB-Studio] OVERLORD Sei Oukoku Hen [Ma10p_1080p] fast resume rejected. file_stat(/downloads/[VCB-Studio] OVERLORD Sei Oukoku Hen [Ma10p_1080p]/[VCB-Studio] OVERLORD Sei Oukoku Hen [Ma10p_1080p][x265_flac].mka): mismatching file size"
+(N) 2026-10-16T21:34:59 - Restored torrent. Torrent: "[Kamigami] The Girl Who Leapt Through Time - Movie [BD x264 1920×1080 AAC Sub(GB,Big5,Jap,Eng)].mkv"
+(W) 2026-10-16T21:34:59 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[Kamigami] The Girl Who Leapt Through Time - Movie [BD x264 1920×1080 AAC Sub(GB,Big5,Jap,Eng)].mkv". Reason: "[Kamigami] The Girl Who Leapt Through Time - Movie [BD x264 1920×1080 AAC Sub(GB,Big5,Jap,Eng)].mkv fast resume rejected. file_stat(/downloads/[Kamigami] The Girl Who Leapt Through Time - Movie [BD x264 1920×1080 AAC Sub(GB,Big5,Jap,Eng)].mkv): mismatching file size"
+(W) 2026-10-16T21:34:59 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[VCB-Studio] OVERLORD". Reason: "[VCB-Studio] OVERLORD fast resume rejected. file_stat(/downloads/[VCB-Studio] OVERLORD/[VCB-Studio] Gekijouban Soushuuhen OVERLORD [Ma10p_1080p]/[VCB-Studio] Gekijouban Soushuuhen OVERLORD [01(Fushisha no Ou)][Ma10p_1080p][x265_flac].mkv): mismatching file size"
+(N) 2026-10-16T21:34:59 - Restored torrent. Torrent: "[VCB-Studio] OVERLORD IV [Ma10p_1080p]"
+(W) 2026-10-16T21:34:59 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[VCB-Studio] OVERLORD IV [Ma10p_1080p]". Reason: "[VCB-Studio] OVERLORD IV [Ma10p_1080p] fast resume rejected. file_stat(/downloads/[VCB-Studio] OVERLORD IV [Ma10p_1080p]/CDs/[220727] ｢HOLLOW HUNGER｣／OxT (flac+webp)/Scans/01.webp): mismatching file size"
+(N) 2026-10-16T21:34:59 - Restored torrent. Torrent: "Chainsaw Man – The Movie Reze Arc (2025) [WEB] [4K] [AV1] [ItachiUchiha].mkv"
+(I) 2026-10-16T21:34:59 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu Oct 1 03:36:12 2026.
+(N) 2026-10-16T21:34:59 - Using built-in WebUI.
+(N) 2026-10-16T21:34:59 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2026-10-16T21:34:59 - WebUI: Now listening on IP: *, port: 8080
+(W) 2026-10-16T21:34:59 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Chainsaw Man – The Movie Reze Arc (2025) [WEB] [4K] [AV1] [ItachiUchiha].mkv". Reason: "Chainsaw Man – The Movie Reze Arc (2025) [WEB] [4K] [AV1] [ItachiUchiha].mkv fast resume rejected. file_stat(/downloads/Chainsaw Man – The Movie Reze Arc (2025) [WEB] [4K] [AV1] [ItachiUchiha].mkv): mismatching file size"
+(I) 2026-10-16T21:34:59 - Successfully listening on IP. IP: "fe80::f5ab:7c0d:37c4:df4e%tun0". Port: "TCP/6881"
+(I) 2026-10-16T21:34:59 - Successfully listening on IP. IP: "fe80::f5ab:7c0d:37c4:df4e%tun0". Port: "UTP/6881"
+(I) 2026-10-16T21:34:59 - Successfully listening on IP. IP: "10.8.4.153". Port: "TCP/6881"
+(I) 2026-10-16T21:34:59 - Successfully listening on IP. IP: "10.8.4.153". Port: "UTP/6881"
+(N) 2026-10-16T21:55:47 - WebAPI login success. IP: ::ffff:172.18.0.1
+(N) 2026-10-16T21:56:33 - Added new torrent. Torrent: "Mobile.Suit.Gundam.GQuuuuuuX.S01E05.Nyaan.Doesnt.Know.About.Kira-Kira.1080p.AMZN.WEB-DL.DUAL.DDP2.0.H.264-VARYG.mkv"
+(I) 2026-10-16T21:56:34 - Detected external IP. IP: "83.97.23.186"
+(N) 2026-10-16T21:58:03 - Torrent download finished. Torrent: "Mobile.Suit.Gundam.GQuuuuuuX.S01E05.Nyaan.Doesnt.Know.About.Kira-Kira.1080p.AMZN.WEB-DL.DUAL.DDP2.0.H.264-VARYG.mkv"
+(N) 2026-10-17T01:36:53 - qBittorrent termination initiated
+(N) 2026-10-17T01:36:53 - Saving resume data completed.
+(N) 2026-10-17T01:36:55 - BitTorrent session successfully finished.
+(N) 2026-10-17T01:36:55 - qBittorrent is now ready to exit
+(N) 2026-10-17T02:55:31 - qBittorrent v5.2.4 started. Process ID: 156
+(N) 2026-10-17T02:55:31 - Using config directory: /config/qBittorrent
+(N) 2026-10-17T02:55:31 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2026-10-17T02:55:31 - Peer ID: "-qB5240-"
+(I) 2026-10-17T02:55:31 - HTTP User-Agent: "qBittorrent/5.2.4"
+(I) 2026-10-17T02:55:31 - Distributed Hash Table (DHT) support: ON
+(I) 2026-10-17T02:55:31 - Local Peer Discovery support: ON
+(I) 2026-10-17T02:55:31 - Peer Exchange (PeX) support: ON
+(I) 2026-10-17T02:55:31 - Anonymous mode: ON
+(I) 2026-10-17T02:55:31 - Encryption support: ON
+(I) 2026-10-17T02:55:31 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2026-10-17T02:55:31 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2026-10-17T02:55:31 - Successfully listening on IP. IP: "172.18.0.2". Port: "TCP/6881"
+(I) 2026-10-17T02:55:31 - Successfully listening on IP. IP: "172.18.0.2". Port: "UTP/6881"
+(I) 2026-10-17T02:55:31 - Successfully listening on IP. IP: "10.8.4.153". Port: "TCP/6881"
+(I) 2026-10-17T02:55:31 - Successfully listening on IP. IP: "10.8.4.153". Port: "UTP/6881"
+(I) 2026-10-17T02:55:31 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2026-10-17T02:55:31 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2026-10-17T02:55:31 - Successfully listening on IP. IP: "fe80::be84:9fef:baa0:2b4c%tun0". Port: "TCP/6881"
+(I) 2026-10-17T02:55:31 - Successfully listening on IP. IP: "fe80::be84:9fef:baa0:2b4c%tun0". Port: "UTP/6881"
+(N) 2026-10-17T02:55:31 - Restored torrent. Torrent: "Samurai Champloo"
+(N) 2026-10-17T02:55:31 - Restored torrent. Torrent: "[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv"
+(W) 2026-10-17T02:55:31 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv". Reason: "[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv fast resume rejected. file_stat(/downloads/[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv): mismatching file size"
+(W) 2026-10-17T02:55:31 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Samurai Champloo". Reason: "Samurai Champloo fast resume rejected. file_stat(/downloads/Samurai Champloo/Samurai Champloo - S01E24.mkv): mismatching file size"
+(N) 2026-10-17T02:55:31 - Restored torrent. Torrent: "[DragsterPS] Samurai Champloo S01 [1080p] [Multi-Audio] [Multi-Subs]"
+(W) 2026-10-17T02:55:31 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[DragsterPS] Samurai Champloo S01 [1080p] [Multi-Audio] [Multi-Subs]". Reason: "[DragsterPS] Samurai Champloo S01 [1080p] [Multi-Audio] [Multi-Subs] fast resume rejected. file_stat(/downloads/[DragsterPS] Samurai Champloo S01 [1080p] [Multi-Audio] [Multi-Subs]/[DragsterPS] Samurai Champloo S01E01 [1080p] [Multi-Audio] [Multi-Subs] [C40EE6DF].mkv): mismatching file size"
+(N) 2026-10-17T02:55:31 - Restored torrent. Torrent: "[VCB-Studio] OVERLORD"
+(N) 2026-10-17T02:55:31 - Restored torrent. Torrent: "Overlord.S03.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA"
+(W) 2026-10-17T02:55:31 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Overlord.S03.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA". Reason: "Overlord.S03.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA fast resume rejected. file_stat(/downloads/Overlord.S03.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA/Overlord.S03E01.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA.mkv): mismatching file size"
+(N) 2026-10-17T02:55:31 - Restored torrent. Torrent: "[Sokudo] Made in Abyss - Dawn of the Deep Soul [1080p BD AV1][dual audio].mkv"
+(W) 2026-10-17T02:55:31 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[Sokudo] Made in Abyss - Dawn of the Deep Soul [1080p BD AV1][dual audio].mkv". Reason: "[Sokudo] Made in Abyss - Dawn of the Deep Soul [1080p BD AV1][dual audio].mkv fast resume rejected. file_stat(/downloads/[Sokudo] Made in Abyss - Dawn of the Deep Soul [1080p BD AV1][dual audio].mkv): mismatching file size"
+(N) 2026-10-17T02:55:31 - Restored torrent. Torrent: "[VCB-Studio] OVERLORD Sei Oukoku Hen [Ma10p_1080p]"
+(N) 2026-10-17T02:55:31 - Restored torrent. Torrent: "[Kamigami] The Girl Who Leapt Through Time - Movie [BD x264 1920×1080 AAC Sub(GB,Big5,Jap,Eng)].mkv"
+(W) 2026-10-17T02:55:31 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[Kamigami] The Girl Who Leapt Through Time - Movie [BD x264 1920×1080 AAC Sub(GB,Big5,Jap,Eng)].mkv". Reason: "[Kamigami] The Girl Who Leapt Through Time - Movie [BD x264 1920×1080 AAC Sub(GB,Big5,Jap,Eng)].mkv fast resume rejected. file_stat(/downloads/[Kamigami] The Girl Who Leapt Through Time - Movie [BD x264 1920×1080 AAC Sub(GB,Big5,Jap,Eng)].mkv): mismatching file size"
+(I) 2026-10-17T02:55:31 - Detected external IP. IP: "83.97.23.186"
+(N) 2026-10-17T02:55:31 - Restored torrent. Torrent: "[VCB-Studio] OVERLORD IV [Ma10p_1080p]"
+(W) 2026-10-17T02:55:31 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[VCB-Studio] OVERLORD Sei Oukoku Hen [Ma10p_1080p]". Reason: "[VCB-Studio] OVERLORD Sei Oukoku Hen [Ma10p_1080p] fast resume rejected. file_stat(/downloads/[VCB-Studio] OVERLORD Sei Oukoku Hen [Ma10p_1080p]/[VCB-Studio] OVERLORD Sei Oukoku Hen [Ma10p_1080p][x265_flac].mka): mismatching file size"
+(N) 2026-10-17T02:55:31 - Restored torrent. Torrent: "Chainsaw Man – The Movie Reze Arc (2025) [WEB] [4K] [AV1] [ItachiUchiha].mkv"
+(W) 2026-10-17T02:55:31 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Chainsaw Man – The Movie Reze Arc (2025) [WEB] [4K] [AV1] [ItachiUchiha].mkv". Reason: "Chainsaw Man – The Movie Reze Arc (2025) [WEB] [4K] [AV1] [ItachiUchiha].mkv fast resume rejected. file_stat(/downloads/Chainsaw Man – The Movie Reze Arc (2025) [WEB] [4K] [AV1] [ItachiUchiha].mkv): mismatching file size"
+(N) 2026-10-17T02:55:31 - Restored torrent. Torrent: "Mobile.Suit.Gundam.GQuuuuuuX.S01E05.Nyaan.Doesnt.Know.About.Kira-Kira.1080p.AMZN.WEB-DL.DUAL.DDP2.0.H.264-VARYG.mkv"
+(W) 2026-10-17T02:55:31 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Mobile.Suit.Gundam.GQuuuuuuX.S01E05.Nyaan.Doesnt.Know.About.Kira-Kira.1080p.AMZN.WEB-DL.DUAL.DDP2.0.H.264-VARYG.mkv". Reason: "Mobile.Suit.Gundam.GQuuuuuuX.S01E05.Nyaan.Doesnt.Know.About.Kira-Kira.1080p.AMZN.WEB-DL.DUAL.DDP2.0.H.264-VARYG.mkv fast resume rejected. file_stat(/downloads/Mobile.Suit.Gundam.GQuuuuuuX.S01E05.Nyaan.Doesnt.Know.About.Kira-Kira.1080p.AMZN.WEB-DL.DUAL.DDP2.0.H.264-VARYG.mkv): mismatching file size"
+(I) 2026-10-17T02:55:32 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu Oct 1 03:36:12 2026.
+(N) 2026-10-17T02:55:32 - Using built-in WebUI.
+(N) 2026-10-17T02:55:32 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2026-10-17T02:55:32 - WebUI: Now listening on IP: *, port: 8080
+(W) 2026-10-17T02:55:32 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[VCB-Studio] OVERLORD IV [Ma10p_1080p]". Reason: "[VCB-Studio] OVERLORD IV [Ma10p_1080p] fast resume rejected. file_stat(/downloads/[VCB-Studio] OVERLORD IV [Ma10p_1080p]/CDs/[220727] ｢HOLLOW HUNGER｣／OxT (flac+webp)/Scans/01.webp): mismatching file size"
+(W) 2026-10-17T02:55:32 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[VCB-Studio] OVERLORD". Reason: "[VCB-Studio] OVERLORD fast resume rejected. file_stat(/downloads/[VCB-Studio] OVERLORD/[VCB-Studio] Gekijouban Soushuuhen OVERLORD [Ma10p_1080p]/[VCB-Studio] Gekijouban Soushuuhen OVERLORD [01(Fushisha no Ou)][Ma10p_1080p][x265_flac].mkv): mismatching file size"
+(N) 2026-10-17T02:56:48 - qBittorrent termination initiated
+(N) 2026-10-17T02:56:48 - Saving resume data completed.
+(N) 2026-10-17T02:56:48 - BitTorrent session successfully finished.
+(N) 2026-10-17T02:56:48 - qBittorrent is now ready to exit
+(N) 2026-10-17T02:57:13 - qBittorrent v5.2.4 started. Process ID: 152
+(N) 2026-10-17T02:57:13 - Using config directory: /config/qBittorrent
+(N) 2026-10-17T02:57:13 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2026-10-17T02:57:13 - Peer ID: "-qB5240-"
+(I) 2026-10-17T02:57:13 - HTTP User-Agent: "qBittorrent/5.2.4"
+(I) 2026-10-17T02:57:13 - Distributed Hash Table (DHT) support: ON
+(I) 2026-10-17T02:57:13 - Local Peer Discovery support: ON
+(I) 2026-10-17T02:57:13 - Peer Exchange (PeX) support: ON
+(I) 2026-10-17T02:57:13 - Anonymous mode: ON
+(I) 2026-10-17T02:57:13 - Encryption support: ON
+(I) 2026-10-17T02:57:13 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2026-10-17T02:57:13 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2026-10-17T02:57:13 - Successfully listening on IP. IP: "172.18.0.3". Port: "TCP/6881"
+(I) 2026-10-17T02:57:13 - Successfully listening on IP. IP: "172.18.0.3". Port: "UTP/6881"
+(I) 2026-10-17T02:57:13 - Successfully listening on IP. IP: "10.4.4.30". Port: "TCP/6881"
+(I) 2026-10-17T02:57:13 - Successfully listening on IP. IP: "10.4.4.30". Port: "UTP/6881"
+(I) 2026-10-17T02:57:13 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2026-10-17T02:57:13 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2026-10-17T02:57:13 - Successfully listening on IP. IP: "fe80::2487:ce1f:eb00:ef42%tun0". Port: "TCP/6881"
+(I) 2026-10-17T02:57:13 - Successfully listening on IP. IP: "fe80::2487:ce1f:eb00:ef42%tun0". Port: "UTP/6881"
+(N) 2026-10-17T02:57:13 - Restored torrent. Torrent: "Samurai Champloo"
+(N) 2026-10-17T02:57:13 - Restored torrent. Torrent: "[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv"
+(W) 2026-10-17T02:57:13 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv". Reason: "[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv fast resume rejected. file_stat(/downloads/[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv): mismatching file size"
+(W) 2026-10-17T02:57:13 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Samurai Champloo". Reason: "Samurai Champloo fast resume rejected. file_stat(/downloads/Samurai Champloo/Samurai Champloo - S01E24.mkv): mismatching file size"
+(N) 2026-10-17T02:57:13 - Restored torrent. Torrent: "[DragsterPS] Samurai Champloo S01 [1080p] [Multi-Audio] [Multi-Subs]"
+(W) 2026-10-17T02:57:13 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[DragsterPS] Samurai Champloo S01 [1080p] [Multi-Audio] [Multi-Subs]". Reason: "[DragsterPS] Samurai Champloo S01 [1080p] [Multi-Audio] [Multi-Subs] fast resume rejected. file_stat(/downloads/[DragsterPS] Samurai Champloo S01 [1080p] [Multi-Audio] [Multi-Subs]/[DragsterPS] Samurai Champloo S01E01 [1080p] [Multi-Audio] [Multi-Subs] [C40EE6DF].mkv): mismatching file size"
+(N) 2026-10-17T02:57:13 - Restored torrent. Torrent: "[VCB-Studio] OVERLORD"
+(N) 2026-10-17T02:57:13 - Restored torrent. Torrent: "Overlord.S03.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA"
+(W) 2026-10-17T02:57:13 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Overlord.S03.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA". Reason: "Overlord.S03.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA fast resume rejected. file_stat(/downloads/Overlord.S03.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA/Overlord.S03E01.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA.mkv): mismatching file size"
+(N) 2026-10-17T02:57:13 - Restored torrent. Torrent: "[Sokudo] Made in Abyss - Dawn of the Deep Soul [1080p BD AV1][dual audio].mkv"
+(W) 2026-10-17T02:57:13 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[Sokudo] Made in Abyss - Dawn of the Deep Soul [1080p BD AV1][dual audio].mkv". Reason: "[Sokudo] Made in Abyss - Dawn of the Deep Soul [1080p BD AV1][dual audio].mkv fast resume rejected. file_stat(/downloads/[Sokudo] Made in Abyss - Dawn of the Deep Soul [1080p BD AV1][dual audio].mkv): mismatching file size"
+(N) 2026-10-17T02:57:13 - Restored torrent. Torrent: "[VCB-Studio] OVERLORD Sei Oukoku Hen [Ma10p_1080p]"
+(N) 2026-10-17T02:57:13 - Restored torrent. Torrent: "[Kamigami] The Girl Who Leapt Through Time - Movie [BD x264 1920×1080 AAC Sub(GB,Big5,Jap,Eng)].mkv"
+(W) 2026-10-17T02:57:13 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[Kamigami] The Girl Who Leapt Through Time - Movie [BD x264 1920×1080 AAC Sub(GB,Big5,Jap,Eng)].mkv". Reason: "[Kamigami] The Girl Who Leapt Through Time - Movie [BD x264 1920×1080 AAC Sub(GB,Big5,Jap,Eng)].mkv fast resume rejected. file_stat(/downloads/[Kamigami] The Girl Who Leapt Through Time - Movie [BD x264 1920×1080 AAC Sub(GB,Big5,Jap,Eng)].mkv): mismatching file size"
+(N) 2026-10-17T02:57:13 - Restored torrent. Torrent: "[VCB-Studio] OVERLORD IV [Ma10p_1080p]"
+(W) 2026-10-17T02:57:13 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[VCB-Studio] OVERLORD Sei Oukoku Hen [Ma10p_1080p]". Reason: "[VCB-Studio] OVERLORD Sei Oukoku Hen [Ma10p_1080p] fast resume rejected. file_stat(/downloads/[VCB-Studio] OVERLORD Sei Oukoku Hen [Ma10p_1080p]/[VCB-Studio] OVERLORD Sei Oukoku Hen [Ma10p_1080p][x265_flac].mka): mismatching file size"
+(N) 2026-10-17T02:57:13 - Restored torrent. Torrent: "Chainsaw Man – The Movie Reze Arc (2025) [WEB] [4K] [AV1] [ItachiUchiha].mkv"
+(W) 2026-10-17T02:57:13 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Chainsaw Man – The Movie Reze Arc (2025) [WEB] [4K] [AV1] [ItachiUchiha].mkv". Reason: "Chainsaw Man – The Movie Reze Arc (2025) [WEB] [4K] [AV1] [ItachiUchiha].mkv fast resume rejected. file_stat(/downloads/Chainsaw Man – The Movie Reze Arc (2025) [WEB] [4K] [AV1] [ItachiUchiha].mkv): mismatching file size"
+(N) 2026-10-17T02:57:13 - Restored torrent. Torrent: "Mobile.Suit.Gundam.GQuuuuuuX.S01E05.Nyaan.Doesnt.Know.About.Kira-Kira.1080p.AMZN.WEB-DL.DUAL.DDP2.0.H.264-VARYG.mkv"
+(I) 2026-10-17T02:57:13 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu Oct 1 03:36:12 2026.
+(N) 2026-10-17T02:57:13 - Using built-in WebUI.
+(N) 2026-10-17T02:57:13 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2026-10-17T02:57:13 - WebUI: Now listening on IP: *, port: 8080
+(W) 2026-10-17T02:57:13 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Mobile.Suit.Gundam.GQuuuuuuX.S01E05.Nyaan.Doesnt.Know.About.Kira-Kira.1080p.AMZN.WEB-DL.DUAL.DDP2.0.H.264-VARYG.mkv". Reason: "Mobile.Suit.Gundam.GQuuuuuuX.S01E05.Nyaan.Doesnt.Know.About.Kira-Kira.1080p.AMZN.WEB-DL.DUAL.DDP2.0.H.264-VARYG.mkv fast resume rejected. file_stat(/downloads/Mobile.Suit.Gundam.GQuuuuuuX.S01E05.Nyaan.Doesnt.Know.About.Kira-Kira.1080p.AMZN.WEB-DL.DUAL.DDP2.0.H.264-VARYG.mkv): mismatching file size"
+(W) 2026-10-17T02:57:13 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[VCB-Studio] OVERLORD IV [Ma10p_1080p]". Reason: "[VCB-Studio] OVERLORD IV [Ma10p_1080p] fast resume rejected. file_stat(/downloads/[VCB-Studio] OVERLORD IV [Ma10p_1080p]/CDs/[220727] ｢HOLLOW HUNGER｣／OxT (flac+webp)/Scans/01.webp): mismatching file size"
+(I) 2026-10-17T02:57:13 - Detected external IP. IP: "158.173.155.189"
+(W) 2026-10-17T02:57:13 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[VCB-Studio] OVERLORD". Reason: "[VCB-Studio] OVERLORD fast resume rejected. file_stat(/downloads/[VCB-Studio] OVERLORD/[VCB-Studio] Gekijouban Soushuuhen OVERLORD [Ma10p_1080p]/[VCB-Studio] Gekijouban Soushuuhen OVERLORD [01(Fushisha no Ou)][Ma10p_1080p][x265_flac].mkv): mismatching file size"
+(N) 2026-10-17T03:06:35 - WebAPI login success. IP: ::ffff:172.18.0.1
+(N) 2026-10-17T03:12:20 - WebAPI login success. IP: ::ffff:172.18.0.1
+(N) 2026-10-17T03:13:43 - qBittorrent termination initiated
+(N) 2026-10-17T03:13:43 - Saving resume data completed.
+(N) 2026-10-17T03:13:43 - BitTorrent session successfully finished.
+(N) 2026-10-17T03:13:43 - qBittorrent is now ready to exit
+(N) 2026-10-17T03:14:48 - qBittorrent v5.2.4 started. Process ID: 150
+(N) 2026-10-17T03:14:48 - Using config directory: /config/qBittorrent
+(N) 2026-10-17T03:14:48 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2026-10-17T03:14:48 - Peer ID: "-qB5240-"
+(I) 2026-10-17T03:14:48 - HTTP User-Agent: "qBittorrent/5.2.4"
+(I) 2026-10-17T03:14:48 - Distributed Hash Table (DHT) support: ON
+(I) 2026-10-17T03:14:48 - Local Peer Discovery support: ON
+(I) 2026-10-17T03:14:48 - Peer Exchange (PeX) support: ON
+(I) 2026-10-17T03:14:48 - Anonymous mode: ON
+(I) 2026-10-17T03:14:48 - Encryption support: ON
+(I) 2026-10-17T03:14:48 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2026-10-17T03:14:48 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2026-10-17T03:14:48 - Successfully listening on IP. IP: "172.18.0.3". Port: "TCP/6881"
+(I) 2026-10-17T03:14:48 - Successfully listening on IP. IP: "172.18.0.3". Port: "UTP/6881"
+(I) 2026-10-17T03:14:48 - Successfully listening on IP. IP: "10.8.4.153". Port: "TCP/6881"
+(I) 2026-10-17T03:14:48 - Successfully listening on IP. IP: "10.8.4.153". Port: "UTP/6881"
+(I) 2026-10-17T03:14:48 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2026-10-17T03:14:48 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2026-10-17T03:14:48 - Successfully listening on IP. IP: "fe80::19a7:b15f:73d1:19cd%tun0". Port: "TCP/6881"
+(I) 2026-10-17T03:14:48 - Successfully listening on IP. IP: "fe80::19a7:b15f:73d1:19cd%tun0". Port: "UTP/6881"
+(N) 2026-10-17T03:14:48 - Restored torrent. Torrent: "Samurai Champloo"
+(N) 2026-10-17T03:14:48 - Restored torrent. Torrent: "[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv"
+(W) 2026-10-17T03:14:48 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv". Reason: "[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv fast resume rejected. file_stat(/downloads/[Doomdos] - Sasaki and Peeps Season2 - 第02话 - [1080p BILIBILI COM WEB-DL].mkv): mismatching file size"
+(W) 2026-10-17T03:14:48 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Samurai Champloo". Reason: "Samurai Champloo fast resume rejected. file_stat(/downloads/Samurai Champloo/Samurai Champloo - S01E24.mkv): mismatching file size"
+(N) 2026-10-17T03:14:48 - Restored torrent. Torrent: "[DragsterPS] Samurai Champloo S01 [1080p] [Multi-Audio] [Multi-Subs]"
+(W) 2026-10-17T03:14:48 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "[DragsterPS] Samurai Champloo S01 [1080p] [Multi-Audio] [Multi-Subs]". Reason: "[DragsterPS] Samurai Champloo S01 [1080p] [Multi-Audio] [Multi-Subs] fast resume rejected. file_stat(/downloads/[DragsterPS] Samurai Champloo S01 [1080p] [Multi-Audio] [Multi-Subs]/[DragsterPS] Samurai Champloo S01E01 [1080p] [Multi-Audio] [Multi-Subs] [C40EE6DF].mkv): mismatching file size"
+(N) 2026-10-17T03:14:48 - Restored torrent. Torrent: "[VCB-Studio] OVERLORD"
+(N) 2026-10-17T03:14:48 - Restored torrent. Torrent: "Overlord.S03.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA"
+(W) 2026-10-17T03:14:48 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "Overlord.S03.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA". Reason: "Overlord.S03.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA fast resume rejected. file_stat(/downloads/Overlord.S03.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA/Overlord.S03E01.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA.mkv): mismatching file size"

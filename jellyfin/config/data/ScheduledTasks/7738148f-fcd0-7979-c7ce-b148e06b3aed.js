@@ -1,0 +1,1 @@
+{"StartTimeUtc":"2026-10-18T18:02:38.3048663Z","EndTimeUtc":"2026-10-18T18:03:12.1802093Z","Status":"Completed","Name":"Medien-Bibliothek scannen","Key":"RefreshLibrary","Id":"7738148ffcd07979c7ceb148e06b3aed"}

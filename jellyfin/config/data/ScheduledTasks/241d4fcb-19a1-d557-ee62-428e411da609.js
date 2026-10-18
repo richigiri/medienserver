@@ -1,0 +1,1 @@
+{"StartTimeUtc":"2026-10-16T00:16:20.1794978Z","EndTimeUtc":"2026-10-16T00:16:22.7666968Z","Status":"Completed","Name":"Cache-Verzeichnis leeren","Key":"DeleteCacheFiles","Id":"241d4fcb19a1d557ee62428e411da609"}

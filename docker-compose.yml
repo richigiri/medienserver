@@ -1,0 +1,109 @@
+
+services:
+  gluetun:
+    image: qmcgaw/gluetun:latest
+    container_name: gluetun
+    cap_add:
+      - NET_ADMIN
+    devices:
+      - /dev/net/tun:/dev/net/tun
+    environment:
+      VPN_SERVICE_PROVIDER: cyberghost
+      VPN_TYPE: openvpn
+      OPENVPN_USER: ${VPN_USER}
+      OPENVPN_PASSWORD: ${VPN_PASSWORD}
+      SERVER_COUNTRIES: Germany
+      TZ: Europe/Berlin
+      FIREWALL_INPUT_PORTS: "8080"
+    ports:
+      # qBittorrent WebUI
+      - "8080:8080"
+      # Optionaler Torrent-Port; nur bei Bedarf
+      # und passender VPN-seitiger Portfreigabe aktivieren.
+      # - "6881:6881/tcp"
+      # - "6881:6881/udp"
+    volumes:
+      - ./gluetun:/gluetun
+    restart: unless-stopped
+
+  qbittorrent:
+    image: lscr.io/linuxserver/qbittorrent:latest
+    container_name: qbittorrent
+    # Kein eigener Netzwerk-Stack:
+    # Der gesamte Netzwerkverkehr läuft über Gluetun.
+    network_mode: "service:gluetun"
+    depends_on:
+      gluetun:
+        condition: service_healthy
+    environment:
+      PUID: "1000"
+      PGID: "1000"
+      TZ: Europe/Berlin
+      WEBUI_PORT: "8080"
+      TORRENTING_PORT: "6881"
+    volumes:
+      - ./qbittorrent/config:/config
+      - ./downloads:/downloads
+    restart: unless-stopped
+
+  jellyfin:
+    image: jellyfin/jellyfin:latest
+    container_name: jellyfin
+    ports:
+      - "8096:8096"
+    volumes:
+      - ./jellyfin/config:/config
+      - ./jellyfin/cache:/cache
+      - ./media:/media:ro
+    environment:
+      - TZ=Europe/Berlin
+    restart: unless-stopped
+
+  ollama:
+    image: ollama/ollama:latest
+    container_name: subtitle-ollama
+    gpus: all
+    environment:
+      OLLAMA_HOST: 0.0.0.0:11434
+      OLLAMA_KEEP_ALIVE: 30m
+      OLLAMA_NUM_PARALLEL: 1
+      OLLAMA_CONTEXT_LENGTH: 16384
+    volumes:
+      - ollama_data:/root/.ollama
+      - ./subtitle-translator/models:/models:ro
+      - ./subtitle-translator/ollama-init:/ollama-init:ro
+    ports:
+      - "127.0.0.1:11434:11434"
+    entrypoint: ["/bin/sh", "/ollama-init/entrypoint.sh"]
+    healthcheck:
+      test: ["CMD-SHELL", "ollama list >/dev/null 2>&1 || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 20
+      start_period: 40s
+    restart: unless-stopped
+
+  translator:
+    build:
+      context: .
+      dockerfile:  ./subtitle-translator/dockerfile
+    container_name: subtitle-translator
+    depends_on:
+      ollama:
+        condition: service_healthy
+    environment:
+      OLLAMA_URL: http://ollama:11434
+      OLLAMA_MODEL: translate-gemma-sub-e4b
+      # NEU (optional): strenger Modus – Exit-Code 1 bei unübersetzten Zeilen
+      # STRICT_TRANSLATION: "1"
+    volumes:
+      - ./media:/work/input
+      - ./subtitle-translator/output:/work/output
+    user: "${UID:-1000}:${GID:-1000}"
+    stdin_open: true
+    tty: true
+    profiles:
+      - tools
+
+volumes:
+  ollama_data:

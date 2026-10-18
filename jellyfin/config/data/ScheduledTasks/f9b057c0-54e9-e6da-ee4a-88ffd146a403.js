@@ -1,0 +1,1 @@
+{"StartTimeUtc":"2026-10-18T18:02:38.7870962Z","EndTimeUtc":"2026-10-18T18:02:39.7959583Z","Status":"Completed","Name":"Plugins aktualisieren","Key":"PluginUpdates","Id":"f9b057c054e9e6daee4a88ffd146a403"}

@@ -1,0 +1,1 @@
+{"StartTimeUtc":"2026-10-18T18:02:38.767674Z","EndTimeUtc":"2026-10-18T18:02:38.7837523Z","Status":"Completed","Name":"Transkodierungsverzeichnis leeren","Key":"DeleteTranscodeFiles","Id":"7d8088c10902f1bf4072ded42437bcfb"}

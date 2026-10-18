@@ -1,0 +1,1 @@
+{"StartTimeUtc":"2026-10-15T23:59:59.8468746Z","EndTimeUtc":"2026-10-15T23:59:59.9329478Z","Status":"Completed","Name":"Kapitelvorschauen erstellen","Key":"RefreshChapterImages","Id":"4e6637c832ed644d1af3370a2506e80a"}

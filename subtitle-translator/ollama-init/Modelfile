@@ -1,0 +1,4 @@
+FROM /models/translate_gemma4_sub-E4B-Q4_K_XL.gguf
+PARAMETER temperature 0.3
+PARAMETER top_p 0.9
+PARAMETER num_ctx 16384
