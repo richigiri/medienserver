@@ -1,1 +1,0 @@
-{"StartTimeUtc":"2026-10-16T00:16:20.1798938Z","EndTimeUtc":"2026-10-16T00:16:20.8509502Z","Status":"Completed","Name":"Protokollverzeichnis leeren","Key":"CleanLogFiles","Id":"1c8ede62c521bea0bf851344f5b8ca40"}

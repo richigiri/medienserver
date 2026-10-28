@@ -1,1 +1,0 @@
-{"StartTimeUtc":"2026-10-18T14:43:39.364555Z","EndTimeUtc":"2026-10-18T14:43:40.862662Z","Status":"Completed","Name":"Datenbank optimieren","Key":"OptimizeDatabaseTask","Id":"31de9ce83b9223d338c77b1a635e144b"}

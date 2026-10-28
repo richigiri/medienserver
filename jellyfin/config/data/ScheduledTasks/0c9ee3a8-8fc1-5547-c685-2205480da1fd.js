@@ -1,1 +1,0 @@
-{"StartTimeUtc":"2026-10-16T00:16:20.1892879Z","EndTimeUtc":"2026-10-16T00:16:20.3158334Z","Status":"Completed","Name":"Kan\u00E4le aktualisieren","Key":"RefreshInternetChannels","Id":"0c9ee3a88fc15547c6852205480da1fd"}
